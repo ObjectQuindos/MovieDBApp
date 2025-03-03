@@ -1,0 +1,16 @@
+# Archivos de usuario de Xcode
+xcuserdata/
+*.xcuserstate
+
+# Directorios de construcción
+build/
+DerivedData/
+
+# Diversos
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+.DS_Store
+.idea/
+
+Info.plist

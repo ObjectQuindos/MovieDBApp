@@ -1,0 +1,420 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "backdrop_path": "/sc1abgWNXc29wSBaerrjGBih06l.jpg",
+      "id": 1084199,
+      "title": "Companion",
+      "original_title": "Companion",
+      "overview": "During a weekend getaway at a secluded lakeside estate, a group of friends finds themselves entangled in a web of secrets, deception, and advanced technology. As tensions rise and loyalties are tested, they uncover unsettling truths about themselves and the world around them.",
+      "poster_path": "/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        27,
+        878,
+        53
+      ],
+      "popularity": 402.794,
+      "release_date": "2025-01-22",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 303
+    },
+    {
+      "backdrop_path": "/cVh8Af7a9JMOJl75ML3Dg2QVEuq.jpg",
+      "id": 762509,
+      "title": "Mufasa: The Lion King",
+      "original_title": "Mufasa: The Lion King",
+      "overview": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+      "poster_path": "/9bXHaLlsFYpJUutg4E6WXAjaxDi.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        10751,
+        16
+      ],
+      "popularity": 3017.42,
+      "release_date": "2024-12-18",
+      "video": false,
+      "vote_average": 7.467,
+      "vote_count": 1153
+    },
+    {
+      "backdrop_path": "/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
+      "id": 950396,
+      "title": "The Gorge",
+      "original_title": "The Gorge",
+      "overview": "Two highly trained operatives grow close from a distance after being sent to guard opposite sides of a mysterious gorge. When an evil below emerges, they must work together to survive what lies within.",
+      "poster_path": "/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        10749,
+        878,
+        53
+      ],
+      "popularity": 1272.002,
+      "release_date": "2025-02-13",
+      "video": false,
+      "vote_average": 7.853,
+      "vote_count": 810
+    },
+    {
+      "backdrop_path": "/cdN7uvygA0AjzZPcsOspHKULLM3.jpg",
+      "id": 549509,
+      "title": "The Brutalist",
+      "original_title": "The Brutalist",
+      "overview": "Escaping post-war Europe, visionary architect László Toth arrives in America to rebuild his life, his work, and his marriage to his wife Erzsébet after being forced apart during wartime by shifting borders and regimes. On his own in a strange new country, László settles in Pennsylvania, where the wealthy and prominent industrialist Harrison Lee Van Buren recognizes his talent for building. But power and legacy come at a heavy cost.",
+      "poster_path": "/zGsBZKyUTXgNSkqAfgoCb4Bz0FK.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 504.924,
+      "release_date": "2024-12-20",
+      "video": false,
+      "vote_average": 7.013,
+      "vote_count": 378
+    },
+    {
+      "backdrop_path": "/uhMfSyi3xwghWrT31p6bfN49Ppz.jpg",
+      "id": 774370,
+      "title": "Dog Man",
+      "original_title": "Dog Man",
+      "overview": "When a faithful police dog and his human police officer owner are injured together on the job, a harebrained but life-saving surgery fuses the two of them together and Dog Man is born. Dog Man is sworn to protect and serve—and fetch, sit and roll over. As Dog Man embraces his new identity and strives to impress his Chief, he must stop the pretty evil plots of feline supervillain Petey the Cat.",
+      "poster_path": "/Ad0ZK9wUOKjyB8J90JvMUh0TQ4E.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        10751,
+        16,
+        35,
+        28
+      ],
+      "popularity": 329.752,
+      "release_date": "2025-01-24",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 61
+    },
+    {
+      "backdrop_path": "/3bBu3xpbRRulHuinDd8SwQemhwe.jpg",
+      "id": 1028196,
+      "title": "Nickel Boys",
+      "original_title": "Nickel Boys",
+      "overview": "Chronicles the powerful friendship between two young Black teenagers navigating the harrowing trials of reform school together in Florida.",
+      "poster_path": "/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 87.003,
+      "release_date": "2024-12-13",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 64
+    },
+    {
+      "backdrop_path": "/ywe9S1cOyIhR5yWzK7511NuQ2YX.jpg",
+      "id": 822119,
+      "title": "Captain America: Brave New World",
+      "original_title": "Captain America: Brave New World",
+      "overview": "After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself in the middle of an international incident. He must discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.",
+      "poster_path": "/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        53,
+        878
+      ],
+      "popularity": 1539.198,
+      "release_date": "2025-02-12",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 555
+    },
+    {
+      "backdrop_path": "/hfTyu2VPBqLRPo2DauW8q7bh9bm.jpg",
+      "id": 516729,
+      "title": "Paddington in Peru",
+      "original_title": "Paddington in Peru",
+      "overview": "Paddington travels to Peru to visit his beloved Aunt Lucy, who now resides at the Home for Retired Bears. With the Brown Family in tow, a thrilling adventure ensues when a mystery plunges them into an unexpected journey through the Amazon rainforest and up to the mountain peaks of Peru.",
+      "poster_path": "/1ffZAucqfvQu36x1C49XfOdjuOG.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        10751,
+        12,
+        35
+      ],
+      "popularity": 793.311,
+      "release_date": "2024-11-08",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 110
+    },
+    {
+      "backdrop_path": "/2g0iU9jt32nwHmjyTJDRvnpVEZ8.jpg",
+      "id": 980477,
+      "title": "Ne Zha 2",
+      "original_title": "哪吒之魔童闹海",
+      "overview": "After the Tribulation, although the souls of Ne Zha and Ao Bing were preserved, their physical bodies would soon be completely destroyed. Tai Yi Zhen Ren plans to use the Seven Colored Lotus to reshape their physical forms. But in the process of reshaping, they encounter numerous difficulties. Where will the fate of Ne Zha and Ao Bing go?",
+      "poster_path": "/293Mo4GWf7Tl0TfAr5NFghqeMy7.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "zh",
+      "genre_ids": [
+        16,
+        14,
+        12
+      ],
+      "popularity": 279.041,
+      "release_date": "2025-01-29",
+      "video": false,
+      "vote_average": 7.851,
+      "vote_count": 87
+    },
+    {
+      "backdrop_path": "/rOMLLMGgDgGG6XeT3P8sUdUb8nl.jpg",
+      "id": 1126166,
+      "title": "Flight Risk",
+      "original_title": "Flight Risk",
+      "overview": "A U.S. Marshal escorts a government witness to trial after he's accused of getting involved with a mob boss, only to discover that the pilot who is transporting them is also a hitman sent to assassinate the informant. After they subdue him, they're forced to fly together after discovering that there are others attempting to eliminate them.",
+      "poster_path": "/4cR3hImKd78dSs652PAkSAyJ5Cx.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "popularity": 1128.037,
+      "release_date": "2025-01-22",
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 168
+    },
+    {
+      "backdrop_path": "/h7r6LZ32dgLwtwSW3CxoWIYD9pr.jpg",
+      "id": 426063,
+      "title": "Nosferatu",
+      "original_title": "Nosferatu",
+      "overview": "A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
+      "poster_path": "/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        27,
+        14
+      ],
+      "popularity": 399.148,
+      "release_date": "2024-12-25",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 2129
+    },
+    {
+      "backdrop_path": "/kEYWal656zP5Q2Tohm91aw6orlT.jpg",
+      "id": 1064213,
+      "title": "Anora",
+      "original_title": "Anora",
+      "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
+      "poster_path": "/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        35,
+        10749
+      ],
+      "popularity": 271.928,
+      "release_date": "2024-10-14",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 1060
+    },
+    {
+      "backdrop_path": "/jTOeWjamUKGxWVUO1TMZXqQUarw.jpg",
+      "id": 402431,
+      "title": "Wicked",
+      "original_title": "Wicked",
+      "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
+      "poster_path": "/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        10749,
+        14
+      ],
+      "popularity": 234.811,
+      "release_date": "2024-11-20",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 1758
+    },
+    {
+      "backdrop_path": "/66nlC5LDZmDUWONGkUZT2BrOszG.jpg",
+      "id": 974576,
+      "title": "Conclave",
+      "original_title": "Conclave",
+      "overview": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church’s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.",
+      "poster_path": "/vYEyxF1UT779RiEalpMjUT6kfdf.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        9648,
+        53
+      ],
+      "popularity": 199.856,
+      "release_date": "2024-10-25",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 1268
+    },
+    {
+      "backdrop_path": "/6dC7ULfiutxwEAs7LjWHL2Tc7Zv.jpg",
+      "id": 1124620,
+      "title": "The Monkey",
+      "original_title": "The Monkey",
+      "overview": "When twin brothers find a mysterious wind-up monkey, a series of outrageous deaths tear their family apart. Twenty-five years later, the monkey begins a new killing spree forcing the estranged brothers to confront the cursed toy.",
+      "poster_path": "/yYa8Onk9ow7ukcnfp2QWVvjWYel.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        27,
+        35
+      ],
+      "popularity": 141.869,
+      "release_date": "2025-02-14",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 8
+    },
+    {
+      "backdrop_path": "/yjgoKU6WZwMOQXQPKQAc1R1IXwr.jpg",
+      "id": 1235499,
+      "title": "The Last Showgirl",
+      "original_title": "The Last Showgirl",
+      "overview": "When the glittering Las Vegas revue she has headlined for decades announces it will soon close, a glamorous showgirl must reconcile with the decisions she’s made and the community she has built as she plans her next act.",
+      "poster_path": "/o70dV2jjGd6TmYTMOY9b34OLzDK.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 47.31,
+      "release_date": "2024-12-13",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 14
+    },
+    {
+      "backdrop_path": "/eGK2JJO1ZeoabWThHmC9IjUTmfP.jpg",
+      "id": 615453,
+      "title": "Ne Zha",
+      "original_title": "哪吒之魔童降世",
+      "overview": "The Primus extracts a Mixed Yuan Bead into a Spirit Seed and a Demon Pill. The Spirit Seed can be reincarnated as a human to help King Zhou establish a new dynasty, whereas the Demon Pill will create a devil threatening humanity. Ne Zha is the one who is destined to be the hero, but instead he becomes a devil incarnate, because the Spirit Seed and a Demon Pill are switched.",
+      "poster_path": "/phM9bb6s9c60LA8qwsdk7U1N2cS.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "zh",
+      "genre_ids": [
+        16,
+        14,
+        12
+      ],
+      "popularity": 110.36,
+      "release_date": "2019-07-26",
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 444
+    },
+    {
+      "backdrop_path": "/aIsjCdfiAS89cMjdDWEpKmUTHsZ.jpg",
+      "id": 1009640,
+      "title": "Valiant One",
+      "original_title": "Valiant One",
+      "overview": "With tensions between North and South Korea, a US helicopter crashes on the North side. The survivors must work together to protect a civilian tech specialist and find their way out without the help of US military support.",
+      "poster_path": "/sT8Z14RDCAd6szzxzWFAU4xcMwg.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        10752,
+        53
+      ],
+      "popularity": 18.385,
+      "release_date": "2025-01-30",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 6
+    },
+    {
+      "backdrop_path": "/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+      "id": 939243,
+      "title": "Sonic the Hedgehog 3",
+      "original_title": "Sonic the Hedgehog 3",
+      "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+      "poster_path": "/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        878,
+        35,
+        10751
+      ],
+      "popularity": 1735.542,
+      "release_date": "2024-12-19",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 1877
+    },
+    {
+      "backdrop_path": "/b3mdmjYTEL70j7nuXATUAD9qgu4.jpg",
+      "id": 823219,
+      "title": "Flow",
+      "original_title": "Straume",
+      "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+      "poster_path": "/imKSymKBK7o73sajciEmndJoVkR.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "lv",
+      "genre_ids": [
+        16,
+        14,
+        12
+      ],
+      "popularity": 372.453,
+      "release_date": "2024-08-29",
+      "video": false,
+      "vote_average": 8.3,
+      "vote_count": 1150
+    }
+  ],
+  "total_pages": 500,
+  "total_results": 10000
+}
