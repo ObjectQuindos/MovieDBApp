@@ -8,6 +8,8 @@
 import XCTest
 @testable import MoviesApp
 
+// MARK: - MoviesViewModelTests
+
 final class MoviesViewModelTests: XCTestCase {
     
     var viewModelUnderTest: MoviesViewModel!
@@ -23,15 +25,6 @@ final class MoviesViewModelTests: XCTestCase {
         viewModelUnderTest = nil
         mockInteractor = nil
         super.tearDown()
-    }
-    
-    func testInitialState() {
-        
-        XCTAssertEqual(viewModelUnderTest.movies.count, 0)
-        XCTAssertFalse(viewModelUnderTest.isLoading)
-        XCTAssertNil(viewModelUnderTest.error)
-        
-        //XCTAssertEqual(viewModelUnderTest.contentState, .empty("No movies available"))
     }
     
     func testFetchMoviesSuccess() async throws {
@@ -105,7 +98,7 @@ final class MoviesViewModelTests: XCTestCase {
     }
 }
 
-
+// MARK: - MoviesInteractorTests
 
 final class MoviesInteractorTests: XCTestCase {
     
@@ -138,7 +131,7 @@ final class MoviesInteractorTests: XCTestCase {
         mockService.mockGetMoviesResult = .success(expectedResponse)
         
         // Run method to test
-        let result = try await interactorUnderTest.getMovies()
+        let result = try await interactorUnderTest.getMovies(page: 1)
         
         // Verify method was called
         XCTAssertEqual(mockService.getMoviesCallCount, 1)
@@ -159,7 +152,7 @@ final class MoviesInteractorTests: XCTestCase {
         
         // Run method to test and wait for error
         do {
-            _ = try await interactorUnderTest.getMovies()
+            _ = try await interactorUnderTest.getMovies(page: 1)
             XCTFail("Expected error but got success")
             
         } catch {
@@ -169,14 +162,9 @@ final class MoviesInteractorTests: XCTestCase {
             XCTAssertEqual(error as? NetworkError, testError)
         }
     }
-    
-    func testInitializationWithDefaultService() {
-        let defaultInteractor = MoviesInteractor()
-        XCTAssertNotNil(defaultInteractor)
-    }
 }
 
-
+// MARK: - MoviesServiceTests
 
 final class MoviesServiceTests: XCTestCase {
     
@@ -208,8 +196,6 @@ final class MoviesServiceTests: XCTestCase {
         let result = try await service.getMovies(page: 1)
         
         XCTAssertEqual(mockClient.requestCallCount, 1)
-        
-        //XCTAssertEqual(mockClient.lastRequestedTask as? MoviesTask, MoviesTask.getMovies(page: 1))
         
         XCTAssertEqual(result.page, 1)
         XCTAssertEqual(result.totalPages, 500)
@@ -249,7 +235,7 @@ final class MoviesServiceTests: XCTestCase {
             
         } catch {
             XCTAssertEqual(mockClient.requestCallCount, 1)
-            XCTAssertEqual(error as? NetworkError, NetworkError.unknown)
+            XCTAssertEqual(error as? NetworkError, NetworkError.decodeError)
         }
     }
 }

@@ -40,31 +40,3 @@ struct FavoriteButtonView: View {
         .buttonStyle(PlainButtonStyle())
     }
 }
-
-/*#Preview {
-    
-    VStack(spacing: 20) {
-        FavoriteButtonView(
-            model: FavoriteButtonModel(
-                isFavorite: false,
-                title: "Añadir a favoritos",
-                iconName: "heart",
-                backgroundColor: .blue
-            ),
-            action: {}
-        )
-        
-        FavoriteButtonView(
-            model: FavoriteButtonModel(
-                isFavorite: true,
-                title: "Eliminar de favoritos",
-                iconName: "heart.fill",
-                backgroundColor: .red
-            ),
-            action: {}
-        )
-    }
-    .padding()
-    .previewLayout(.sizeThatFits)
-}
-*/

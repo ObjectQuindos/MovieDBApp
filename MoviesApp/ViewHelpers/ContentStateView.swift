@@ -7,10 +7,6 @@
 
 import SwiftUI
 
-/*protocol Factory {
-    static func makeModule() -> some View
-}*/
-
 // MARK: - Content State
 
 enum ContentState: Equatable {

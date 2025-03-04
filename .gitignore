@@ -12,5 +12,3 @@ DerivedData/
 *.xcscmblueprint
 .DS_Store
 .idea/
-
-Info.plist
